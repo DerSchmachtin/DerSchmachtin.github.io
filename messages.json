@@ -1,0 +1,29 @@
+{
+  "messages": [
+    {
+      "date": "2025-09-03T08:00:00Z",
+      "messageType": "love_note",
+      "message": "Guten Morgen, mein Schatz! Ich liebe dich mehr als Worte sagen können ❤️"
+    },
+    {
+      "date": "2025-09-04T08:00:00Z",
+      "messageType": "memory",
+      "message": "Erinnerst du dich an unser erstes Date? Du warst so wunderschön 🥰"
+    },
+    {
+      "date": "2025-09-05T08:00:00Z",
+      "messageType": "appreciation",
+      "message": "Danke, dass du immer für mich da bist. Du machst mein Leben so viel besser 💕"
+    },
+    {
+      "date": "2025-09-06T08:00:00Z",
+      "messageType": "admiration",
+      "message": "Deine Augen leuchten wie Sterne am Himmel ✨"
+    },
+    {
+      "date": "2025-09-07T08:00:00Z",
+      "messageType": "gratitude",
+      "message": "Ich bin so dankbar, dass ich dich in meinem Leben habe 🌟"
+    }
+  ]
+}
