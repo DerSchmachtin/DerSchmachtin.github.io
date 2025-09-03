@@ -1,0 +1,53 @@
+{
+  "timeline_events": [
+    {
+      "date": "2024-11-01",
+      "title": "Unser erstes Date ❤️",
+      "description": "Der Tag, an dem alles begann. Ich war so nervös, aber du hast mich sofort entspannt.",
+      "type": "milestone",
+      "photos": ""
+    },
+    {
+      "date": "2024-11-15",
+      "title": "Erster Kuss 💋",
+      "description": "Unter dem Sternenhimmel - perfekter hätte es nicht sein können.",
+      "type": "milestone",
+      "photos": ""
+    },
+    {
+      "date": "2024-12-24",
+      "title": "Erstes Weihnachten zusammen 🎄",
+      "description": "Das schönste Weihnachten meines Lebens - mit dir an meiner Seite.",
+      "type": "holiday",
+      "photos": ""
+    },
+    {
+      "date": "2025-01-01",
+      "title": "Neujahr 2025 🎊",
+      "description": "Mit dir ins neue Jahr - auf viele weitere gemeinsame Jahre!",
+      "type": "holiday",
+      "photos": ""
+    },
+    {
+      "date": "2025-02-14",
+      "title": "Unser erster Valentinstag 💕",
+      "description": "Du hast diesen Tag so besonders gemacht. Ich liebe dich!",
+      "type": "holiday",
+      "photos": ""
+    },
+    {
+      "date": "2025-03-20",
+      "title": "Frühlingsanfang 🌸",
+      "description": "Gemeinsam durch den Park spaziert - die Kirschblüten waren wunderschön.",
+      "type": "memory",
+      "photos": ""
+    },
+    {
+      "date": "2025-09-03",
+      "title": "App-Launch Tag 📱",
+      "description": "Der Tag, an dem ich diese App für uns erstellt habe - ein digitales Liebestagebuch.",
+      "type": "special",
+      "photos": ""
+    }
+  ]
+}
