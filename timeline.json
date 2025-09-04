@@ -1,6 +1,20 @@
 {
   "timeline_events": [
     {
+      "date": "2025-11-01",
+      "title": "erster Jahrestag",
+      "description": "1 Jahr zusammen, wow, auf das nächste Jahr:)",
+      "type": "milestone",
+      "photos": ""
+    },
+    {
+      "date": "2025-07-14",
+      "title": "Erster Gemeinsamer Urlaub",
+      "description": "Der Tag, an dem alles begann. Ich war so nervös, aber du hast mich sofort entspannt.",
+      "type": "holiday",
+      "photos": ""
+    },
+    {
       "date": "2024-11-01",
       "title": "Unser erstes Date ❤️",
       "description": "Der Tag, an dem alles begann. Ich war so nervös, aber du hast mich sofort entspannt.",
@@ -8,7 +22,7 @@
       "photos": ""
     },
     {
-      "date": "2024-11-15",
+      "date": "2024-10-23",
       "title": "Erster Kuss 💋",
       "description": "Unter dem Sternenhimmel - perfekter hätte es nicht sein können.",
       "type": "milestone",
@@ -31,7 +45,7 @@
     {
       "date": "2025-02-14",
       "title": "Unser erster Valentinstag 💕",
-      "description": "Du hast diesen Tag so besonders gemacht. Ich liebe dich!",
+      "description": "Du hast diesen Tag so besonders gemacht. Mein Schnullilein!",
       "type": "holiday",
       "photos": ""
     },
